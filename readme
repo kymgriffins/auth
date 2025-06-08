@@ -1,0 +1,95 @@
+# GR8 Capital
+
+**GR8 Capital** is a hedge fund project focused on delivering consistent, risk-adjusted returns through disciplined, data-driven trading strategies in the forex and futures markets.
+
+---
+
+## 🌍 About GR8 
+
+GR8 Capital is driven by a commitment to transparency, discipline and high performance. Founded by a team of traders and technologists, our approach combines the precision of price action strategies with algorithmic support and modern infrastructure.
+
+---
+
+## 🎯 Investment Strategy
+
+We operate a multi-strategy approach:
+
+- **Price Action Trading** – Clean, indicator-free strategies based on market structure and order flow.
+- **Forex & Futures** – Focused on highly liquid instruments with a strong risk-reward profile.
+- **Risk Management** – Emphasizing low drawdown, strict position sizing, and event-aware filters.
+- **Data-Backed Decisions** – Trading strategies are supported by extensive backtesting and journaling.
+
+---
+
+## 🧱 Fund Structure
+
+- **Entity**: Private investment vehicle structured under Kenyan company law.
+- **Fee Model**: 2% management fee and 20% performance fee (after high-water mark).
+- **Compliance**: Ongoing consultations with legal and financial professionals to ensure regulatory alignment.
+
+---
+
+## 🧭 Project Structure
+
+Our workflow is divided into these tracks:
+
+### 1. **Strategy Development**
+- Document price action models
+- Build backtesting framework (Python /MT5 /TradingView)
+- Simulate market conditions
+- Trade journaling and performance logging
+
+### 2. **Technical Infrastructure**
+- Build MVP of investor dashboard (Django or Flask)
+- Secure server for algorithmic execution (e.g., VPS with MetaTrader or API)
+- Internal performance monitoring and analytics
+
+### 3. **Operations & Legal**
+- Register fund entity
+- Engage legal counsel for regulatory compliance
+- Develop fund agreements, investor docs, and disclosures
+
+### 4. **Capital & Investor Relations**
+- Build investor pitch deck
+- Draft one-pager and executive summary
+- Set up private investor onboarding process
+
+---
+
+## ✅ To-Do List
+
+### Strategy & Trading
+- [ ] Finalize core trading setups
+- [ ] Complete TradingView backtest
+- [ ] Build trade journal system
+- [ ] Define metrics for performance evaluation
+
+### Technology
+- [ ] Create investor dashboard wireframe
+- [ ] Setup VPS for trading execution
+- [ ] Build Django backend for performance logs
+
+### Legal & Compliance
+- [ ] Choose legal structure for fund
+- [ ] Consult CMA or legal firm
+- [ ] Draft compliance documentation
+
+### Investor Readiness
+- [ ] Design pitch deck and one-pager
+- [ ] Prepare sample investor reports
+- [ ] Setup professional email/website
+
+---
+
+## 📩 Contact
+
+If you're:
+- An investor interested in GR8 Capital
+- A developer with experience in fintech or trading platforms
+- A legal expert with capital markets knowledge
+
+**Reach out to us** at: [gr8capital@protonmail.com](mailto:gr8capital@protonmail.com)
+
+---
+
+> **GR8 Capital** — Precision, Discipline, Growth.
